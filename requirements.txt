@@ -3,3 +3,4 @@ flask-cors
 flask-sqlalchemy
 werkzeug
 python-dotenv
+gunicorn==22.0.0
