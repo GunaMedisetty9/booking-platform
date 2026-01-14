@@ -42,7 +42,7 @@ git push -u origin main
 #### Step 3: Update Frontend
 In all HTML files, change:
 ```javascript
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://booking-platform-api1.onrender.com/api';
 ```
 
 To:

@@ -1,0 +1,24 @@
+# Query: http://localhost:5000/api
+
+7 results - 7 files
+
+contact.html:
+  459:         const API_BASE = 'http://localhost:5000/api';
+
+DEPLOYMENT.md:
+  45: const API_BASE = 'https://booking-platform-api1.onrender.com/api';
+
+login.html:
+  156:         const API_BASE = 'https://booking-platform-api1.onrender.com/api';
+
+shopping-mall.html:
+  339:         const API_BASE = 'http://localhost:5000/api';
+
+signup.html:
+  168:         const API_BASE = 'http://localhost:5000/api';
+
+wedding-halls (1).html:
+  351:         const API_BASE = 'http://localhost:5000/api';
+
+wedding-halls.html:
+  351:         const API_BASE = 'http://localhost:5000/api';
